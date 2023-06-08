@@ -1,0 +1,22 @@
+body {
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.mainDiv {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    background-color: blue;
+}
+
+.btn-box {
+    margin-top: 10px;
+}
+
+.btn-box button {
+    border-color: transparent;
+    background-color: brown;
+    color: white;
+    width: 100px;
+}
