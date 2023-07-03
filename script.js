@@ -3,19 +3,8 @@ function wrisgadatana() {
 
     document.getElementById("mainID").style.justifyContent = "flex-end";
 
+    divdiv.style.backgroundColor = "green";
 
 }
-
-// function changecolor() {
-
-//     document.getElementById("mainDiv").style.backgroundColor = "green";
-
-// }
-
-if (mainID.style.justifyContent == "flex-end") {
-    document.getElementById("mainDiv").style.backgroundColor = "green";
-}
-
-
 
 
